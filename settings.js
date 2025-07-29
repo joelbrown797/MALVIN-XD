@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "malvin~grdBTYhZ#XTLJs5S5XBBqVhWbLGmvPx8Iq
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || "?",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "small snake",
+BOT_NAME: process.env.BOT_NAME || "scorpion",
 // add bot name here for menu
 MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
@@ -68,16 +68,16 @@ LINK_WHITELIST: "youtube.com,github.com",
           DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "22898499257",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "22898452555",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "small snake",
+OWNER_NAME: process.env.OWNER_NAME || "scorpion",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ small snake*",
 // add bot owner name    
 
-        READ_MESSAGE: process.env.READ_MESSAGE || "false",
+        READ_MESSAGE: process.env.READ_MESSAGE || "truee",
 // Turn true or false for automatic read msgs
 
                  AUTO_REACT: process.env.AUTO_REACT || "true",
